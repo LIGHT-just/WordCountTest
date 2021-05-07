@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\学习\现代软件工程\WordCount\源.cpp(10,7): warning C4101: “a”: 未引用的局部变量
+D:\学习\现代软件工程\WordCount\源.cpp(32,13): warning C4309: “初始化”: 截断常量值
+  WordCount.vcxproj -> D:\学习\现代软件工程\WordCount\Debug\WordCount.exe
